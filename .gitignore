@@ -9,10 +9,6 @@
 *.pidb
 *.booproj
 *.svd
-*.userprefs
-
-# Temp Unity/Android Build
-.utmp/
 
 # ========== Visual Studio ==========
 .vs/
@@ -21,6 +17,7 @@
 *.userprefs
 *.csproj
 *.sln
+*.sln.docstates
 *.vsconfig
 
 # ========== Rider ==========
@@ -42,6 +39,15 @@ Thumbs.db
 *.keystore.password
 *.keystore.alias
 
+# ========== Temp Unity/Android Build ==========
+.utmp/
+
 # ========== Other ==========
 *.log
-*.vsconfig
+packages.config
+mongocrypt.dll
+libmongocrypt.so
+libmongocrypt.dylib
+app.config
+ShroomClicker_BurstDebugInformation_DoNotShip/
+UserSettings/
