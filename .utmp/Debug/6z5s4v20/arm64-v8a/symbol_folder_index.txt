@@ -1,0 +1,1 @@
+C:\Users\ossis\ShroomClicker\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.com.unity.template.mobile2D\gradle-project\unityLibrary\build\intermediates\cxx\Debug\6z5s4v20\obj\arm64-v8a
