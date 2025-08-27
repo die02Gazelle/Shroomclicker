@@ -17,7 +17,52 @@
 *.userprefs
 *.csproj
 *.sln
-*.sln.docstates
+*.sln.docstates# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+.MemCaptures/
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.vsconfig
+
+# Rider
+.idea/
+*.iml
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android / Gradle
+.gradle/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.keystore.properties
+*.keystore.password
+*.keystore.alias
+
+# Temp Unity/Android Build
+.utmp/
+
+# Other
+*.log
+
 *.vsconfig
 
 # ========== Rider ==========
