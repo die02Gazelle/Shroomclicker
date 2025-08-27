@@ -23,7 +23,6 @@ public class DataReadyLoader : MonoBehaviour
         }
 
         IsReady = true;
-        Debug.Log("Ready to load! Daten sind verfügbar.");
 
         OnReady();
     }
