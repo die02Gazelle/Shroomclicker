@@ -1,29 +1,46 @@
+# ========== Unity ==========
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-MemoryCaptures/
-*.csproj
-*.unityproj
-*.sln
-*.userprefs
+[Mm]emoryCaptures/
 *.pidb
 *.booproj
 *.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
 
-# Unity temporäre Ordner
-Library/
-Temp/
-Build/
-Builds/
-Logs/
-MemoryCaptures/
+# ========== Visual Studio ==========
+.vs/
+*.suo
+*.user
+*.userprefs
 *.csproj
 *.sln
-.vs/
+*.sln.docstates
+*.vsconfig
+
+# ========== Rider ==========
+.idea/
+*.iml
+*.ipr
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== Android / Gradle ==========
+.gradle/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.keystore.properties
+*.keystore.password
+*.keystore.alias
+
+# ========== Temp Unity/Android Build ==========
+.utmp/
+
+# ========== Other ==========
+*.log
